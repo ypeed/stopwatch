@@ -1,3 +1,3 @@
 # stopwatch
 link to working project on codepen:
-https://codepen.io/patra/pen/OJLmNGd
+https://codepen.io/patra/live/OJLmNGd
